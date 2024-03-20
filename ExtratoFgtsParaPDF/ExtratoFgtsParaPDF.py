@@ -71,9 +71,13 @@ def main():
 
   for nome_arquivo in lista_arquivos_zip:
     caminho_arquivo = diretorio_origem+'/'+nome_arquivo
+    
+    diretorio_zip = os.path.join(diretorio_temp, nome_arquivo)
+    
+    print(diretorio_zip)
 
     with ZipFile(caminho_arquivo, 'r') as zip_file:
-      zip_file.extractall(diretorio_temp)
+      zip_file.extractall(diretorio_zip)
       
   # Separar o Conteudo dos arquivos
   lista = lista_arquivos_txt()
