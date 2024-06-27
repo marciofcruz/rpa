@@ -1,0 +1,1045 @@
+ 10287925000017910287925000017920240314004413                                                                                       
+                                                                                                                                    
+ -------------------------------------------------------------------------                                                          
+                                                                                                                                    
+ C A I X A   E C O N O M I C A   F E D E R A L                                                                                      
+                                                                                                                                    
+ FGTS - EXTRATO DE CONTA VINCULADA PARA FINS RESCISORIOS                                                                            
+                                                                                                                                    
+                                    SOLICITADO EM: 13/03/2024 AS 10:30:52                                                           
+                                                                                                                                    
+ NOME DO TRABALHADOR                        NUM.CONTA CAT      TX    PAG                                                            
+ ROSIANE KAMAN MOREIRA                       79312237 01        3   1/  2                                                           
+                                                                                                                                    
+  PIS/PASEP    CART.TRAB.    UNID.TRABALHO        DTA.ADM.   SITUACAO CTA                                                           
+ 13046044932  0004271-00247                      24/06/2004   OPTANTE                                                               
+                                                                                                                                    
+ DATA DE OPCAO       OPCAO RETROAT.     DATA DE AFAST.          MATRICULA                                                           
+  24/06/2004           00/00/0000       00/00/0000 -          30868872814                                                           
+                                                                                                                                    
+ NOME DO EMPREGADOR                                  INSCRICAO EMPREGADOR                                                           
+ ATENTO BRASIL SA                                       02879250004670                                                              
+                                                                                                                                    
+ MAIOR COMPET.     DATA RECOLH MAIOR COMPET.   VALOR RECOLH MAIOR COMPET.                                                           
+    02/2024               07/03/2024                              765,53*                                                           
+                                                                                                                                    
+ COD. EMPREGADOR      BASE DA CONTA      VALOR BASE PARA FINS RESCISORIOS                                                           
+ 09970504539121            SP                                  91.603,00*                                                           
+                                                                                                                                    
+                                                                                                                                    
+ COMPETENCIAS NAO LOCALIZADAS NESTA CONTA VINCULADA, NO PERIODO:                                                                    
+ 01/2018      02/2018      03/2018      04/2018      05/2018      06/2018                                                           
+ 07/2018      08/2018      09/2018      10/2018      11/2018      12/2018                                                           
+ 01/2019      02/2019      03/2019      04/2019      05/2019      06/2019                                                           
+                                                                                                                                    
+ MOVIMENTACAO DA CONTA NO PERIODO                          VALOR                                                                    
+ DATA        SALDO ANTERIOR                               5.261,66                                                                  
+ 10/09/2023  CREDITO DE JAM 0,004631                         24,36                                                                  
+ 06/09/2023  DEPOSITO AGOSTO/2023                           672,34                                                                  
+ 06/10/2023  DEPOSITO SETEMBRO/2023                         672,34                                                                  
+ 10/10/2023  CREDITO DE JAM 0,003599                         21,44                                                                  
+ 07/11/2023  DEPOSITO OUTUBRO/2023                          688,74                                                                  
+ 10/11/2023  CREDITO DE JAM 0,003524                         23,44                                                                  
+ 10/12/2023  CREDITO DE JAM 0,003243                         23,88                                                                  
+ 07/12/2023  DEPOSITO NOVEMBRO/2023                       1.033,10                                                                  
+ 05/01/2024  DEPOSITO DEZEMBRO/2023                       1.033,10                                                                  
+ 10/01/2024  CREDITO DE JAM 0,003157                         26,58                                                                  
+ 07/02/2024  DEPOSITO JANEIRO/2024                          765,53                                                                  
+ 10/02/2024  CREDITO DE JAM 0,003343                         31,69                                                                  
+ 10/03/2024  CREDITO DE JAM 0,002545                         26,15                                                                  
+ 07/03/2024  DEPOSITO FEVEREIRO/2024                        765,53                                                                  
+                                                                                                                                    
+                                                                                                                                    
+ SALDO            DEPOSITO                JAM              TOTAL                                                                    
+                 10.829,42*            240,46*         11.069,88*                                                                   
+                                                                                                                                    
+ CONTA RECEPTORA DE FUSAO,                                                                                                          
+ EM 07/01/2020 DA CONTA ORIGEM 09970504539121/00010921908/SP                                                                        
+ EM 07/01/2020 DA CONTA ORIGEM 09970504539121/00076001893/SP                                                                        
+ * VALOR EXPRESSO EM REAIS                                                                                                          
+ DATA/HORA DE GERACAO: 14/03/2024 00:44:13                         018040                                                           
+                                                    #EXTERNO.CONFIDENCIAL                                                           
+                                                                                                                                    
+ C A I X A   E C O N O M I C A   F E D E R A L                                                                                      
+                                                                                                                                    
+ FGTS - EXTRATO DE CONTA VINCULADA PARA FINS RESCISORIOS                                                                            
+                                                                                                                                    
+                                    SOLICITADO EM: 13/03/2024 AS 10:30:52                                                           
+                                                                                                                                    
+ NOME DO TRABALHADOR                        NUM.CONTA CAT      TX    PAG                                                            
+ ROSIANE KAMAN MOREIRA                       79312237 01        3   2/  2                                                           
+                                                                                                                                    
+  PIS/PASEP    CART.TRAB.    UNID.TRABALHO        DTA.ADM.   SITUACAO CTA                                                           
+ 13046044932  0004271-00247                      24/06/2004   OPTANTE                                                               
+                                                                                                                                    
+ DATA DE OPCAO       OPCAO RETROAT.     DATA DE AFAST.          MATRICULA                                                           
+  24/06/2004           00/00/0000       00/00/0000 -          30868872814                                                           
+                                                                                                                                    
+ NOME DO EMPREGADOR                                  INSCRICAO EMPREGADOR                                                           
+ ATENTO BRASIL SA                                       02879250004670                                                              
+                                                                                                                                    
+ MAIOR COMPET.     DATA RECOLH MAIOR COMPET.   VALOR RECOLH MAIOR COMPET.                                                           
+    02/2024               07/03/2024                              765,53*                                                           
+                                                                                                                                    
+ COD. EMPREGADOR      BASE DA CONTA      VALOR BASE PARA FINS RESCISORIOS                                                           
+ 09970504539121            SP                                  91.603,00*                                                           
+                                                                                                                                    
+                                                                                                                                    
+ COMPETENCIAS NAO LOCALIZADAS NESTA CONTA VINCULADA, NO PERIODO:                                                                    
+ 07/2019      08/2019      09/2019      10/2019      11/2019                                                                        
+                                                    #EXTERNO.CONFIDENCIAL                                                           
+                                                                                                                                    
+ -------------------------------------------------------------------------                                                          
+                                                                                                                                    
+ C A I X A   E C O N O M I C A   F E D E R A L                                                                                      
+                                                                                                                                    
+ FGTS - EXTRATO DE CONTA VINCULADA PARA FINS RESCISORIOS                                                                            
+                                                                                                                                    
+                                    SOLICITADO EM: 13/03/2024 AS 10:30:52                                                           
+                                                                                                                                    
+ NOME DO TRABALHADOR                        NUM.CONTA CAT      TX    PAG                                                            
+ ANA PAULA LOPES BRITO                       13697103 01        3   1/  1                                                           
+                                                                                                                                    
+  PIS/PASEP    CART.TRAB.    UNID.TRABALHO        DTA.ADM.   SITUACAO CTA                                                           
+ 13176100816  0084304-00249  SP.000000000000003  13/04/2005   OPTANTE                                                               
+                                                                                                                                    
+ DATA DE OPCAO       OPCAO RETROAT.     DATA DE AFAST.          MATRICULA                                                           
+  13/04/2005           00/00/0000       00/00/0000 -          29480560801                                                           
+                                                                                                                                    
+ NOME DO EMPREGADOR                                  INSCRICAO EMPREGADOR                                                           
+ ATENTO BRASIL SA                                       02879250004670                                                              
+                                                                                                                                    
+ MAIOR COMPET.     DATA RECOLH MAIOR COMPET.   VALOR RECOLH MAIOR COMPET.                                                           
+    02/2024               07/03/2024                              851,91*                                                           
+                                                                                                                                    
+ COD. EMPREGADOR      BASE DA CONTA      VALOR BASE PARA FINS RESCISORIOS                                                           
+ 09970504539121            SP                                  95.271,57*                                                           
+                                                                                                                                    
+                                                                                                                                    
+ COMPETENCIAS NAO LOCALIZADAS NESTA CONTA VINCULADA, NO PERIODO:                                                                    
+                                                                                                                                    
+ SEM OCORRENCIAS                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+ MOVIMENTACAO DA CONTA NO PERIODO                          VALOR                                                                    
+ DATA        SALDO ANTERIOR                               2.843,30                                                                  
+ 10/09/2023  CREDITO DE JAM 0,004631                         13,16                                                                  
+ 06/09/2023  DEPOSITO AGOSTO/2023                           753,00                                                                  
+ 06/10/2023  DEPOSITO SETEMBRO/2023                         745,80                                                                  
+ 10/10/2023  CREDITO DE JAM 0,003599                         12,99                                                                  
+ 07/11/2023  DEPOSITO OUTUBRO/2023                          763,99                                                                  
+ 10/11/2023  CREDITO DE JAM 0,003524                         15,39                                                                  
+ 10/12/2023  CREDITO DE JAM 0,003243                         16,69                                                                  
+ 07/12/2023  DEPOSITO NOVEMBRO/2023                       1.145,98                                                                  
+ 05/01/2024  DEPOSITO DEZEMBRO/2023                       1.150,38                                                                  
+ 10/01/2024  CREDITO DE JAM 0,003157                         19,92                                                                  
+ 07/02/2024  DEPOSITO JANEIRO/2024                          851,91                                                                  
+ 10/02/2024  CREDITO DE JAM 0,003343                         25,00                                                                  
+ 10/03/2024  CREDITO DE JAM 0,002545                         21,26                                                                  
+ 07/03/2024  DEPOSITO FEVEREIRO/2024                        851,91                                                                  
+                                                                                                                                    
+                                                                                                                                    
+ SALDO            DEPOSITO                JAM              TOTAL                                                                    
+                  9.097,84*            132,84*          9.230,68*                                                                   
+ * VALOR EXPRESSO EM REAIS                                                                                                          
+ DATA/HORA DE GERACAO: 14/03/2024 00:44:13                         016412                                                           
+                                                    #EXTERNO.CONFIDENCIAL                                                           
+                                                                                                                                    
+ -------------------------------------------------------------------------                                                          
+                                                                                                                                    
+ C A I X A   E C O N O M I C A   F E D E R A L                                                                                      
+                                                                                                                                    
+ FGTS - EXTRATO DE CONTA VINCULADA PARA FINS RESCISORIOS                                                                            
+                                                                                                                                    
+                                    SOLICITADO EM: 13/03/2024 AS 10:30:52                                                           
+                                                                                                                                    
+ NOME DO TRABALHADOR                        NUM.CONTA CAT      TX    PAG                                                            
+ DAIANNE FERREIRA MENDES                     51455903 01        3   1/  1                                                           
+                                                                                                                                    
+  PIS/PASEP    CART.TRAB.    UNID.TRABALHO        DTA.ADM.   SITUACAO CTA                                                           
+ 13269874773  0058934-00280                      07/06/2011   OPTANTE                                                               
+                                                                                                                                    
+ DATA DE OPCAO       OPCAO RETROAT.     DATA DE AFAST.          MATRICULA                                                           
+  07/06/2011           00/00/0000       00/00/0000 -          22761435842                                                           
+                                                                                                                                    
+ NOME DO EMPREGADOR                                  INSCRICAO EMPREGADOR                                                           
+ ATENTO BRASIL SA                                       02879250004670                                                              
+                                                                                                                                    
+ MAIOR COMPET.     DATA RECOLH MAIOR COMPET.   VALOR RECOLH MAIOR COMPET.                                                           
+    02/2024               07/03/2024                              763,99*                                                           
+                                                                                                                                    
+ COD. EMPREGADOR      BASE DA CONTA      VALOR BASE PARA FINS RESCISORIOS                                                           
+ 09970504539121            SP                                  66.501,64*                                                           
+                                                                                                                                    
+                                                                                                                                    
+ COMPETENCIAS NAO LOCALIZADAS NESTA CONTA VINCULADA, NO PERIODO:                                                                    
+                                                                                                                                    
+ SEM OCORRENCIAS                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+ MOVIMENTACAO DA CONTA NO PERIODO                          VALOR                                                                    
+ DATA        SALDO ANTERIOR                              40.905,13                                                                  
+ 10/09/2023  CREDITO DE JAM 0,004631                        189,43                                                                  
+ 06/09/2023  DEPOSITO AGOSTO/2023                           753,00                                                                  
+ 06/10/2023  DEPOSITO SETEMBRO/2023                         745,80                                                                  
+ 10/10/2023  CREDITO DE JAM 0,003599                        150,60                                                                  
+ 07/11/2023  DEPOSITO OUTUBRO/2023                          763,99                                                                  
+ 10/11/2023  CREDITO DE JAM 0,003524                        150,62                                                                  
+ 10/12/2023  CREDITO DE JAM 0,003243                        141,58                                                                  
+ 07/12/2023  DEPOSITO NOVEMBRO/2023                       1.145,98                                                                  
+ 05/01/2024  DEPOSITO DEZEMBRO/2023                       1.150,38                                                                  
+ 10/01/2024  CREDITO DE JAM 0,003157                        141,89                                                                  
+ 07/02/2024  DEPOSITO JANEIRO/2024                          763,99                                                                  
+ 10/02/2024  CREDITO DE JAM 0,003343                        154,57                                                                  
+ 10/03/2024  CREDITO DE JAM 0,002545                        120,01                                                                  
+ 11/03/2024  SAQUE DEP - COD 60 AG 10400978/UB           -3.429,42                                                                  
+ 11/03/2024  SAQUE JAM - COD 60 AG 10400978/UB           -1.834,42                                                                  
+ 07/03/2024  DEPOSITO FEVEREIRO/2024                        763,99                                                                  
+ SALDO            DEPOSITO                JAM              TOTAL                                                                    
+                 42.777,12*              0,00*         42.777,12*                                                                   
+ * VALOR EXPRESSO EM REAIS                                                                                                          
+ DATA/HORA DE GERACAO: 14/03/2024 00:44:13                         018997                                                           
+                                                    #EXTERNO.CONFIDENCIAL                                                           
+                                                                                                                                    
+ -------------------------------------------------------------------------                                                          
+                                                                                                                                    
+ C A I X A   E C O N O M I C A   F E D E R A L                                                                                      
+                                                                                                                                    
+ FGTS - EXTRATO DE CONTA VINCULADA PARA FINS RESCISORIOS                                                                            
+                                                                                                                                    
+                                    SOLICITADO EM: 13/03/2024 AS 10:30:52                                                           
+                                                                                                                                    
+ NOME DO TRABALHADOR                        NUM.CONTA CAT      TX    PAG                                                            
+ MAYRA SANTA ROSA ARAGAO                     29487214 01        3   1/  1                                                           
+                                                                                                                                    
+  PIS/PASEP    CART.TRAB.    UNID.TRABALHO        DTA.ADM.   SITUACAO CTA                                                           
+ 13270112814  0032389-00299                      25/03/2008   OPTANTE                                                               
+                                                                                                                                    
+ DATA DE OPCAO       OPCAO RETROAT.     DATA DE AFAST.          MATRICULA                                                           
+  25/03/2008           00/00/0000       00/00/0000 -          33714534806                                                           
+                                                                                                                                    
+ NOME DO EMPREGADOR                                  INSCRICAO EMPREGADOR                                                           
+ ATENTO BRASIL SA                                       02879250004670                                                              
+                                                                                                                                    
+ MAIOR COMPET.     DATA RECOLH MAIOR COMPET.   VALOR RECOLH MAIOR COMPET.                                                           
+    02/2024               07/03/2024                              763,99*                                                           
+                                                                                                                                    
+ COD. EMPREGADOR      BASE DA CONTA      VALOR BASE PARA FINS RESCISORIOS                                                           
+ 09970504539121            SP                                  79.122,96*                                                           
+                                                                                                                                    
+                                                                                                                                    
+ COMPETENCIAS NAO LOCALIZADAS NESTA CONTA VINCULADA, NO PERIODO:                                                                    
+ 03/2008                                                                                                                            
+                                                                                                                                    
+ MOVIMENTACAO DA CONTA NO PERIODO                          VALOR                                                                    
+ DATA        SALDO ANTERIOR                              77.203,47                                                                  
+ 10/09/2023  CREDITO DE JAM 0,004631                        357,52                                                                  
+ 06/09/2023  DEPOSITO AGOSTO/2023                           753,00                                                                  
+ 06/10/2023  DEPOSITO SETEMBRO/2023                         745,80                                                                  
+ 10/10/2023  CREDITO DE JAM 0,003599                        281,85                                                                  
+ 07/11/2023  DEPOSITO OUTUBRO/2023                          763,99                                                                  
+ 10/11/2023  CREDITO DE JAM 0,003524                        279,59                                                                  
+ 10/12/2023  CREDITO DE JAM 0,003243                        260,68                                                                  
+ 07/12/2023  DEPOSITO NOVEMBRO/2023                       1.233,88                                                                  
+ 05/01/2024  DEPOSITO DEZEMBRO/2023                       1.238,68                                                                  
+ 10/01/2024  CREDITO DE JAM 0,003157                        258,49                                                                  
+ 07/02/2024  DEPOSITO JANEIRO/2024                          763,99                                                                  
+ 10/02/2024  CREDITO DE JAM 0,003343                        278,72                                                                  
+ 10/03/2024  CREDITO DE JAM 0,002545                        214,84                                                                  
+ 07/03/2024  DEPOSITO FEVEREIRO/2024                        763,99                                                                  
+                                                                                                                                    
+                                                                                                                                    
+ SALDO            DEPOSITO                JAM              TOTAL                                                                    
+                 72.657,76*         12.740,73*         85.398,49*                                                                   
+ * VALOR EXPRESSO EM REAIS                                                                                                          
+ DATA/HORA DE GERACAO: 14/03/2024 00:44:13                         017095                                                           
+                                                    #EXTERNO.CONFIDENCIAL                                                           
+                                                                                                                                    
+ -------------------------------------------------------------------------                                                          
+                                                                                                                                    
+ C A I X A   E C O N O M I C A   F E D E R A L                                                                                      
+                                                                                                                                    
+ FGTS - EXTRATO DE CONTA VINCULADA PARA FINS RESCISORIOS                                                                            
+                                                                                                                                    
+                                    SOLICITADO EM: 13/03/2024 AS 10:30:52                                                           
+                                                                                                                                    
+ NOME DO TRABALHADOR                        NUM.CONTA CAT      TX    PAG                                                            
+ GABRIELA LEITE PRACA                        85198144 01        3   1/  1                                                           
+                                                                                                                                    
+  PIS/PASEP    CART.TRAB.    UNID.TRABALHO        DTA.ADM.   SITUACAO CTA                                                           
+ 13491739895  0037761-00308                      15/06/2015   OPTANTE                                                               
+                                                                                                                                    
+ DATA DE OPCAO       OPCAO RETROAT.     DATA DE AFAST.          MATRICULA                                                           
+  15/06/2015           00/00/0000       00/00/0000 -          38125050884                                                           
+                                                                                                                                    
+ NOME DO EMPREGADOR                                  INSCRICAO EMPREGADOR                                                           
+ ATENTO BRASIL SA                                       02879250004670                                                              
+                                                                                                                                    
+ MAIOR COMPET.     DATA RECOLH MAIOR COMPET.   VALOR RECOLH MAIOR COMPET.                                                           
+    02/2024               07/03/2024                              763,69*                                                           
+                                                                                                                                    
+ COD. EMPREGADOR      BASE DA CONTA      VALOR BASE PARA FINS RESCISORIOS                                                           
+ 09970504539121            SP                                  45.819,29*                                                           
+                                                                                                                                    
+                                                                                                                                    
+ COMPETENCIAS NAO LOCALIZADAS NESTA CONTA VINCULADA, NO PERIODO:                                                                    
+                                                                                                                                    
+ SEM OCORRENCIAS                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+ MOVIMENTACAO DA CONTA NO PERIODO                          VALOR                                                                    
+ DATA        SALDO ANTERIOR                                   0,00                                                                  
+ 06/09/2023  DEPOSITO AGOSTO/2023                           750,51                                                                  
+ 06/10/2023  DEPOSITO SETEMBRO/2023                         750,01                                                                  
+ 10/10/2023  CREDITO DE JAM 0,003599                          2,70                                                                  
+ 07/11/2023  DEPOSITO OUTUBRO/2023                        1.024,92                                                                  
+ 10/11/2023  CREDITO DE JAM 0,003524                          5,29                                                                  
+ 10/12/2023  CREDITO DE JAM 0,003243                          8,21                                                                  
+ 07/12/2023  DEPOSITO NOVEMBRO/2023                       1.145,53                                                                  
+ 05/01/2024  DEPOSITO DEZEMBRO/2023                       1.148,53                                                                  
+ 10/01/2024  CREDITO DE JAM 0,003157                         11,64                                                                  
+ 07/02/2024  DEPOSITO JANEIRO/2024                          763,69                                                                  
+ 10/02/2024  CREDITO DE JAM 0,003343                         16,20                                                                  
+ 10/03/2024  CREDITO DE JAM 0,002545                         14,32                                                                  
+ 07/03/2024  DEPOSITO FEVEREIRO/2024                        763,69                                                                  
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+ SALDO            DEPOSITO                JAM              TOTAL                                                                    
+                  6.346,88*             58,36*          6.405,24*                                                                   
+ * VALOR EXPRESSO EM REAIS                                                                                                          
+ DATA/HORA DE GERACAO: 14/03/2024 00:44:13                         018107                                                           
+                                                    #EXTERNO.CONFIDENCIAL                                                           
+                                                                                                                                    
+ -------------------------------------------------------------------------                                                          
+                                                                                                                                    
+ C A I X A   E C O N O M I C A   F E D E R A L                                                                                      
+                                                                                                                                    
+ FGTS - EXTRATO DE CONTA VINCULADA PARA FINS RESCISORIOS                                                                            
+                                                                                                                                    
+                                    SOLICITADO EM: 13/03/2024 AS 10:30:52                                                           
+                                                                                                                                    
+ NOME DO TRABALHADOR                        NUM.CONTA CAT      TX    PAG                                                            
+ MARCELLA ASSIS DALLE NOGARE                112817307 01        3   1/  1                                                           
+                                                                                                                                    
+  PIS/PASEP    CART.TRAB.    UNID.TRABALHO        DTA.ADM.   SITUACAO CTA                                                           
+ 13567775897  0049024-00274                      22/03/2021   OPTANTE                                                               
+                                                                                                                                    
+ DATA DE OPCAO       OPCAO RETROAT.     DATA DE AFAST.          MATRICULA                                                           
+  22/03/2021           00/00/0000       00/00/0000 -          34841322809                                                           
+                                                                                                                                    
+ NOME DO EMPREGADOR                                  INSCRICAO EMPREGADOR                                                           
+ ATENTO BRASIL SA                                       02879250004670                                                              
+                                                                                                                                    
+ MAIOR COMPET.     DATA RECOLH MAIOR COMPET.   VALOR RECOLH MAIOR COMPET.                                                           
+    02/2024               07/03/2024                              763,99*                                                           
+                                                                                                                                    
+ COD. EMPREGADOR      BASE DA CONTA      VALOR BASE PARA FINS RESCISORIOS                                                           
+ 09970504539121            SP                                  29.654,57*                                                           
+ * OBS.: CONTA COM BLOQUEIO E/OU EMPRESA BLOQUEADA.                                                                                 
+                                                                                                                                    
+ COMPETENCIAS NAO LOCALIZADAS NESTA CONTA VINCULADA, NO PERIODO:                                                                    
+                                                                                                                                    
+ SEM OCORRENCIAS                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+ MOVIMENTACAO DA CONTA NO PERIODO                          VALOR                                                                    
+ DATA        SALDO ANTERIOR                              20.889,97                                                                  
+ 10/09/2023  CREDITO DE JAM 0,004631                         96,74                                                                  
+ 06/09/2023  DEPOSITO AGOSTO/2023                           753,00                                                                  
+ 06/10/2023  DEPOSITO SETEMBRO/2023                         745,80                                                                  
+ 10/10/2023  CREDITO DE JAM 0,003599                         78,24                                                                  
+ 07/11/2023  DEPOSITO OUTUBRO/2023                          763,99                                                                  
+ 10/11/2023  CREDITO DE JAM 0,003524                         79,51                                                                  
+ 10/12/2023  CREDITO DE JAM 0,003243                         75,90                                                                  
+ 07/12/2023  DEPOSITO NOVEMBRO/2023                       1.145,98                                                                  
+ 05/01/2024  DEPOSITO DEZEMBRO/2023                       1.150,38                                                                  
+ 10/01/2024  CREDITO DE JAM 0,003157                         77,75                                                                  
+ 07/02/2024  DEPOSITO JANEIRO/2024                          763,99                                                                  
+ 10/02/2024  CREDITO DE JAM 0,003343                         86,44                                                                  
+ 10/03/2024  CREDITO DE JAM 0,002545                         67,97                                                                  
+ 07/03/2024  DEPOSITO FEVEREIRO/2024                        763,99                                                                  
+                                                                                                                                    
+                                                                                                                                    
+ SALDO            DEPOSITO                JAM              TOTAL                                                                    
+                 26.895,86*            643,79*         27.539,65*                                                                   
+ * VALOR EXPRESSO EM REAIS                                                                                                          
+ DATA/HORA DE GERACAO: 14/03/2024 00:44:13                         019690                                                           
+                                                    #EXTERNO.CONFIDENCIAL                                                           
+                                                                                                                                    
+ -------------------------------------------------------------------------                                                          
+                                                                                                                                    
+ C A I X A   E C O N O M I C A   F E D E R A L                                                                                      
+                                                                                                                                    
+ FGTS - EXTRATO DE CONTA VINCULADA PARA FINS RESCISORIOS                                                                            
+                                                                                                                                    
+                                    SOLICITADO EM: 13/03/2024 AS 10:30:52                                                           
+                                                                                                                                    
+ NOME DO TRABALHADOR                        NUM.CONTA CAT      TX    PAG                                                            
+ MAYARA MARQUES COSTA PEREIRA                45909722 01        3   1/  1                                                           
+                                                                                                                                    
+  PIS/PASEP    CART.TRAB.    UNID.TRABALHO        DTA.ADM.   SITUACAO CTA                                                           
+ 13610319894  0046778-00341                      11/10/2010   OPTANTE                                                               
+                                                                                                                                    
+ DATA DE OPCAO       OPCAO RETROAT.     DATA DE AFAST.          MATRICULA                                                           
+  11/10/2010           00/00/0000       00/00/0000 -          35336654884                                                           
+                                                                                                                                    
+ NOME DO EMPREGADOR                                  INSCRICAO EMPREGADOR                                                           
+ ATENTO BRASIL SA                                       02879250004670                                                              
+                                                                                                                                    
+ MAIOR COMPET.     DATA RECOLH MAIOR COMPET.   VALOR RECOLH MAIOR COMPET.                                                           
+    02/2024               07/03/2024                              672,01*                                                           
+                                                                                                                                    
+ COD. EMPREGADOR      BASE DA CONTA      VALOR BASE PARA FINS RESCISORIOS                                                           
+ 09970504539121            SP                                  65.170,67*                                                           
+ * OBS.: CONTA COM BLOQUEIO E/OU EMPRESA BLOQUEADA.                                                                                 
+                                                                                                                                    
+ COMPETENCIAS NAO LOCALIZADAS NESTA CONTA VINCULADA, NO PERIODO:                                                                    
+                                                                                                                                    
+ SEM OCORRENCIAS                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+ MOVIMENTACAO DA CONTA NO PERIODO                          VALOR                                                                    
+ DATA        SALDO ANTERIOR                              55.151,85                                                                  
+ 10/09/2023  CREDITO DE JAM 0,004631                        255,40                                                                  
+ 06/09/2023  DEPOSITO AGOSTO/2023                           656,01                                                                  
+ 06/10/2023  DEPOSITO SETEMBRO/2023                         656,01                                                                  
+ 10/10/2023  CREDITO DE JAM 0,003599                        201,77                                                                  
+ 07/11/2023  DEPOSITO OUTUBRO/2023                          672,01                                                                  
+ 10/11/2023  CREDITO DE JAM 0,003524                        200,58                                                                  
+ 10/12/2023  CREDITO DE JAM 0,003243                        187,42                                                                  
+ 07/12/2023  DEPOSITO NOVEMBRO/2023                       1.008,01                                                                  
+ 05/01/2024  DEPOSITO DEZEMBRO/2023                       1.157,34                                                                  
+ 10/01/2024  CREDITO DE JAM 0,003157                        186,22                                                                  
+ 01/02/2024  SAQUE DEP - COD 60 AG 10400912/BH             -549,76                                                                  
+ 01/02/2024  SAQUE JAM - COD 60F AG 10400854/BH          -2.494,71                                                                  
+ 01/02/2024  SAQUE DEP - COD 60F AG 10400854/BH          -2.374,91                                                                  
+ 01/02/2024  SAQUE DEP - COD 60F AG 10400854/BH            -281,31                                                                  
+ 01/02/2024  SAQUE DEP - COD 60F AG 10400854/BH            -215,94                                                                  
+ 07/02/2024  DEPOSITO JANEIRO/2024                          672,01                                                                  
+ 10/02/2024  CREDITO DE JAM 0,003343                        181,91                                                                  
+ 10/03/2024  CREDITO DE JAM 0,002545                        140,66                                                                  
+ 07/03/2024  DEPOSITO FEVEREIRO/2024                        672,01                                                                  
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+ SALDO            DEPOSITO                JAM              TOTAL                                                                    
+                 55.760,01*            322,57*         56.082,58*                                                                   
+ * VALOR EXPRESSO EM REAIS                                                                                                          
+ DATA/HORA DE GERACAO: 14/03/2024 00:44:13                         019195                                                           
+                                                    #EXTERNO.CONFIDENCIAL                                                           
+                                                                                                                                    
+ -------------------------------------------------------------------------                                                          
+                                                                                                                                    
+ C A I X A   E C O N O M I C A   F E D E R A L                                                                                      
+                                                                                                                                    
+ FGTS - EXTRATO DE CONTA VINCULADA PARA FINS RESCISORIOS                                                                            
+                                                                                                                                    
+                                    SOLICITADO EM: 13/03/2024 AS 10:30:52                                                           
+                                                                                                                                    
+ NOME DO TRABALHADOR                        NUM.CONTA CAT      TX    PAG                                                            
+ SOLANGE MITIKO OKITA                        35920256 01        3   1/  1                                                           
+                                                                                                                                    
+  PIS/PASEP    CART.TRAB.    UNID.TRABALHO        DTA.ADM.   SITUACAO CTA                                                           
+ 13717683933  0096723-00228                      23/03/2009   OPTANTE                                                               
+                                                                                                                                    
+ DATA DE OPCAO       OPCAO RETROAT.     DATA DE AFAST.          MATRICULA                                                           
+  23/03/2009           00/00/0000       00/00/0000 -          33996800827                                                           
+                                                                                                                                    
+ NOME DO EMPREGADOR                                  INSCRICAO EMPREGADOR                                                           
+ ATENTO BRASIL SA                                       02879250004670                                                              
+                                                                                                                                    
+ MAIOR COMPET.     DATA RECOLH MAIOR COMPET.   VALOR RECOLH MAIOR COMPET.                                                           
+    02/2024               07/03/2024                              790,33*                                                           
+                                                                                                                                    
+ COD. EMPREGADOR      BASE DA CONTA      VALOR BASE PARA FINS RESCISORIOS                                                           
+ 09970504539121            SP                                  72.405,77*                                                           
+                                                                                                                                    
+                                                                                                                                    
+ COMPETENCIAS NAO LOCALIZADAS NESTA CONTA VINCULADA, NO PERIODO:                                                                    
+ 03/2009                                                                                                                            
+                                                                                                                                    
+ MOVIMENTACAO DA CONTA NO PERIODO                          VALOR                                                                    
+ DATA        SALDO ANTERIOR                              37.257,69                                                                  
+ 10/09/2023  CREDITO DE JAM 0,004631                        172,54                                                                  
+ 06/09/2023  DEPOSITO AGOSTO/2023                           753,00                                                                  
+ 06/10/2023  DEPOSITO SETEMBRO/2023                         745,80                                                                  
+ 10/10/2023  CREDITO DE JAM 0,003599                        137,42                                                                  
+ 07/11/2023  DEPOSITO OUTUBRO/2023                          763,99                                                                  
+ 10/11/2023  CREDITO DE JAM 0,003524                        137,67                                                                  
+ 10/12/2023  CREDITO DE JAM 0,003243                        129,61                                                                  
+ 07/12/2023  DEPOSITO NOVEMBRO/2023                       1.145,98                                                                  
+ 05/01/2024  DEPOSITO DEZEMBRO/2023                       1.150,78                                                                  
+ 10/01/2024  CREDITO DE JAM 0,003157                        130,20                                                                  
+ 07/02/2024  DEPOSITO JANEIRO/2024                          913,28                                                                  
+ 10/02/2024  CREDITO DE JAM 0,003343                        142,16                                                                  
+ 10/03/2024  CREDITO DE JAM 0,002545                        110,91                                                                  
+ 07/03/2024  DEPOSITO FEVEREIRO/2024                        790,33                                                                  
+                                                                                                                                    
+                                                                                                                                    
+ SALDO            DEPOSITO                JAM              TOTAL                                                                    
+                 40.371,25*          4.110,11*         44.481,36*                                                                   
+ * VALOR EXPRESSO EM REAIS                                                                                                          
+ DATA/HORA DE GERACAO: 14/03/2024 00:44:13                         016864                                                           
+                                                    #EXTERNO.CONFIDENCIAL                                                           
+                                                                                                                                    
+ -------------------------------------------------------------------------                                                          
+                                                                                                                                    
+ C A I X A   E C O N O M I C A   F E D E R A L                                                                                      
+                                                                                                                                    
+ FGTS - EXTRATO DE CONTA VINCULADA PARA FINS RESCISORIOS                                                                            
+                                                                                                                                    
+                                    SOLICITADO EM: 13/03/2024 AS 10:30:52                                                           
+                                                                                                                                    
+ NOME DO TRABALHADOR                        NUM.CONTA CAT      TX    PAG                                                            
+ MIRELE THAIS ISHIKAWA LANCETTI ISEKI       103741497 01        3   1/  1                                                           
+                                                                                                                                    
+  PIS/PASEP    CART.TRAB.    UNID.TRABALHO        DTA.ADM.   SITUACAO CTA                                                           
+ 13749220777  0062914-00353                      21/01/2019   OPTANTE                                                               
+                                                                                                                                    
+ DATA DE OPCAO       OPCAO RETROAT.     DATA DE AFAST.          MATRICULA                                                           
+  21/01/2019           00/00/0000       18/04/2019 - J        34386536809                                                           
+                                                                                                                                    
+ NOME DO EMPREGADOR                                  INSCRICAO EMPREGADOR                                                           
+ ATENTO BRASIL S/A                                      02879250000500                                                              
+                                                                                                                                    
+ MAIOR COMPET.     DATA RECOLH MAIOR COMPET.   VALOR RECOLH MAIOR COMPET.                                                           
+    04/2019               07/05/2019                               85,70*                                                           
+                                                                                                                                    
+ COD. EMPREGADOR      BASE DA CONTA      VALOR BASE PARA FINS RESCISORIOS                                                           
+ 09970504539121            SP                                       0,00*                                                           
+                                                                                                                                    
+                                                                                                                                    
+ COMPETENCIAS NAO LOCALIZADAS NESTA CONTA VINCULADA, NO PERIODO:                                                                    
+                                                                                                                                    
+ SEM OCORRENCIAS                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+ MOVIMENTACAO DA CONTA NO PERIODO                          VALOR                                                                    
+ DATA        SALDO ANTERIOR                                   0,00                                                                  
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+ SALDO            DEPOSITO                JAM              TOTAL                                                                    
+                      0,00*              0,00*              0,00*                                                                   
+ * VALOR EXPRESSO EM REAIS                                                                                                          
+ DATA/HORA DE GERACAO: 14/03/2024 00:44:13                         018108                                                           
+                                                    #EXTERNO.CONFIDENCIAL                                                           
+                                                                                                                                    
+ -------------------------------------------------------------------------                                                          
+                                                                                                                                    
+ C A I X A   E C O N O M I C A   F E D E R A L                                                                                      
+                                                                                                                                    
+ FGTS - EXTRATO DE CONTA VINCULADA PARA FINS RESCISORIOS                                                                            
+                                                                                                                                    
+                                    SOLICITADO EM: 13/03/2024 AS 10:30:52                                                           
+                                                                                                                                    
+ NOME DO TRABALHADOR                        NUM.CONTA CAT      TX    PAG                                                            
+ MIRELE THAIS ISHIKAWA LANCETTI ISEKI       114588933 01        3   1/  1                                                           
+                                                                                                                                    
+  PIS/PASEP    CART.TRAB.    UNID.TRABALHO        DTA.ADM.   SITUACAO CTA                                                           
+ 13749220777  0062914-00353                      12/08/2021   OPTANTE                                                               
+                                                                                                                                    
+ DATA DE OPCAO       OPCAO RETROAT.     DATA DE AFAST.          MATRICULA                                                           
+  12/08/2021           00/00/0000       00/00/0000 -          34386536809                                                           
+                                                                                                                                    
+ NOME DO EMPREGADOR                                  INSCRICAO EMPREGADOR                                                           
+ ATENTO BRASIL SA                                       02879250004670                                                              
+                                                                                                                                    
+ MAIOR COMPET.     DATA RECOLH MAIOR COMPET.   VALOR RECOLH MAIOR COMPET.                                                           
+    02/2024               07/03/2024                              763,99*                                                           
+                                                                                                                                    
+ COD. EMPREGADOR      BASE DA CONTA      VALOR BASE PARA FINS RESCISORIOS                                                           
+ 09970504539121            SP                                  25.809,04*                                                           
+                                                                                                                                    
+                                                                                                                                    
+ COMPETENCIAS NAO LOCALIZADAS NESTA CONTA VINCULADA, NO PERIODO:                                                                    
+                                                                                                                                    
+ SEM OCORRENCIAS                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+ MOVIMENTACAO DA CONTA NO PERIODO                          VALOR                                                                    
+ DATA        SALDO ANTERIOR                              19.409,76                                                                  
+ 10/09/2023  CREDITO DE JAM 0,004631                         89,88                                                                  
+ 06/09/2023  DEPOSITO AGOSTO/2023                         1.276,01                                                                  
+ 06/10/2023  DEPOSITO SETEMBRO/2023                         762,95                                                                  
+ 10/10/2023  CREDITO DE JAM 0,003599                         74,77                                                                  
+ 07/11/2023  DEPOSITO OUTUBRO/2023                          763,99                                                                  
+ 10/11/2023  CREDITO DE JAM 0,003524                         76,16                                                                  
+ 10/12/2023  CREDITO DE JAM 0,003243                         72,81                                                                  
+ 07/12/2023  DEPOSITO NOVEMBRO/2023                         763,99                                                                  
+ 05/01/2024  DEPOSITO DEZEMBRO/2023                       1.159,51                                                                  
+ 10/01/2024  CREDITO DE JAM 0,003157                         73,52                                                                  
+ 07/02/2024  DEPOSITO JANEIRO/2024                          763,99                                                                  
+ 10/02/2024  CREDITO DE JAM 0,003343                         81,98                                                                  
+ 10/03/2024  CREDITO DE JAM 0,002545                         64,56                                                                  
+ 07/03/2024  DEPOSITO FEVEREIRO/2024                        763,99                                                                  
+                                                                                                                                    
+                                                                                                                                    
+ SALDO            DEPOSITO                JAM              TOTAL                                                                    
+                 24.824,34*          1.373,53*         26.197,87*                                                                   
+ * VALOR EXPRESSO EM REAIS                                                                                                          
+ DATA/HORA DE GERACAO: 14/03/2024 00:44:13                         020858                                                           
+                                                    #EXTERNO.CONFIDENCIAL                                                           
+                                                                                                                                    
+ -------------------------------------------------------------------------                                                          
+                                                                                                                                    
+ C A I X A   E C O N O M I C A   F E D E R A L                                                                                      
+                                                                                                                                    
+ FGTS - EXTRATO DE CONTA VINCULADA PARA FINS RESCISORIOS                                                                            
+                                                                                                                                    
+                                    SOLICITADO EM: 13/03/2024 AS 10:30:52                                                           
+                                                                                                                                    
+ NOME DO TRABALHADOR                        NUM.CONTA CAT      TX    PAG                                                            
+ CARLOS EDUARDO LIMA FELIPE                 113781993 01        3   1/  1                                                           
+                                                                                                                                    
+  PIS/PASEP    CART.TRAB.    UNID.TRABALHO        DTA.ADM.   SITUACAO CTA                                                           
+ 16239067130  3382265-09827                      22/06/2021   OPTANTE                                                               
+                                                                                                                                    
+ DATA DE OPCAO       OPCAO RETROAT.     DATA DE AFAST.          MATRICULA                                                           
+  22/06/2021           00/00/0000       00/00/0000 -          33822659827                                                           
+                                                                                                                                    
+ NOME DO EMPREGADOR                                  INSCRICAO EMPREGADOR                                                           
+ ATENTO BRASIL SA                                       02879250004670                                                              
+                                                                                                                                    
+ MAIOR COMPET.     DATA RECOLH MAIOR COMPET.   VALOR RECOLH MAIOR COMPET.                                                           
+    02/2024               07/03/2024                              860,68*                                                           
+                                                                                                                                    
+ COD. EMPREGADOR      BASE DA CONTA      VALOR BASE PARA FINS RESCISORIOS                                                           
+ 09970504539121            SP                                  26.991,56*                                                           
+                                                                                                                                    
+                                                                                                                                    
+ COMPETENCIAS NAO LOCALIZADAS NESTA CONTA VINCULADA, NO PERIODO:                                                                    
+                                                                                                                                    
+ SEM OCORRENCIAS                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+ MOVIMENTACAO DA CONTA NO PERIODO                          VALOR                                                                    
+ DATA        SALDO ANTERIOR                              20.704,36                                                                  
+ 10/09/2023  CREDITO DE JAM 0,004631                         95,88                                                                  
+ 06/09/2023  DEPOSITO AGOSTO/2023                           752,99                                                                  
+ 06/10/2023  DEPOSITO SETEMBRO/2023                         745,79                                                                  
+ 10/10/2023  CREDITO DE JAM 0,003599                         77,57                                                                  
+ 07/11/2023  DEPOSITO OUTUBRO/2023                          763,98                                                                  
+ 10/11/2023  CREDITO DE JAM 0,003524                         78,85                                                                  
+ 10/12/2023  CREDITO DE JAM 0,003243                         75,30                                                                  
+ 07/12/2023  DEPOSITO NOVEMBRO/2023                       1.145,97                                                                  
+ 05/01/2024  DEPOSITO DEZEMBRO/2023                       1.150,77                                                                  
+ 10/01/2024  CREDITO DE JAM 0,003157                         77,15                                                                  
+ 07/02/2024  DEPOSITO JANEIRO/2024                          763,98                                                                  
+ 10/02/2024  CREDITO DE JAM 0,003343                         85,81                                                                  
+ 10/03/2024  CREDITO DE JAM 0,002545                         67,48                                                                  
+ 07/03/2024  DEPOSITO FEVEREIRO/2024                        860,68                                                                  
+                                                                                                                                    
+                                                                                                                                    
+ SALDO            DEPOSITO                JAM              TOTAL                                                                    
+                 26.041,80*          1.404,76*         27.446,56*                                                                   
+ * VALOR EXPRESSO EM REAIS                                                                                                          
+ DATA/HORA DE GERACAO: 14/03/2024 00:44:13                         018975                                                           
+                                                    #EXTERNO.CONFIDENCIAL                                                           
+                                                                                                                                    
+ -------------------------------------------------------------------------                                                          
+                                                                                                                                    
+ C A I X A   E C O N O M I C A   F E D E R A L                                                                                      
+                                                                                                                                    
+ FGTS - EXTRATO DE CONTA VINCULADA PARA FINS RESCISORIOS                                                                            
+                                                                                                                                    
+                                    SOLICITADO EM: 13/03/2024 AS 10:30:52                                                           
+                                                                                                                                    
+ NOME DO TRABALHADOR                        NUM.CONTA CAT      TX    PAG                                                            
+ JULIANA MENDONCA ANICETO BRITO             106197372 01        3   1/  1                                                           
+                                                                                                                                    
+  PIS/PASEP    CART.TRAB.    UNID.TRABALHO        DTA.ADM.   SITUACAO CTA                                                           
+ 16267261078  0079306-00299                      05/08/2019   OPTANTE                                                               
+                                                                                                                                    
+ DATA DE OPCAO       OPCAO RETROAT.     DATA DE AFAST.          MATRICULA                                                           
+  05/08/2019           00/00/0000       00/00/0000 -          36114055829                                                           
+                                                                                                                                    
+ NOME DO EMPREGADOR                                  INSCRICAO EMPREGADOR                                                           
+ ATENTO BRASIL SA                                       02879250004670                                                              
+                                                                                                                                    
+ MAIOR COMPET.     DATA RECOLH MAIOR COMPET.   VALOR RECOLH MAIOR COMPET.                                                           
+    02/2024               07/03/2024                              714,00*                                                           
+                                                                                                                                    
+ COD. EMPREGADOR      BASE DA CONTA      VALOR BASE PARA FINS RESCISORIOS                                                           
+ 09970504539121            SP                                  32.464,54*                                                           
+ * OBS.: CONTA COM BLOQUEIO E/OU EMPRESA BLOQUEADA.                                                                                 
+                                                                                                                                    
+ COMPETENCIAS NAO LOCALIZADAS NESTA CONTA VINCULADA, NO PERIODO:                                                                    
+                                                                                                                                    
+ SEM OCORRENCIAS                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+ MOVIMENTACAO DA CONTA NO PERIODO                          VALOR                                                                    
+ DATA        SALDO ANTERIOR                              15.677,84                                                                  
+ 10/09/2023  CREDITO DE JAM 0,004631                         72,60                                                                  
+ 06/09/2023  DEPOSITO AGOSTO/2023                         1.208,83                                                                  
+ 06/10/2023  DEPOSITO SETEMBRO/2023                         697,00                                                                  
+ 10/10/2023  CREDITO DE JAM 0,003599                         61,03                                                                  
+ 07/11/2023  DEPOSITO OUTUBRO/2023                          714,00                                                                  
+ 10/11/2023  CREDITO DE JAM 0,003524                         62,43                                                                  
+ 10/12/2023  CREDITO DE JAM 0,003243                         59,97                                                                  
+ 07/12/2023  DEPOSITO NOVEMBRO/2023                         714,00                                                                  
+ 05/01/2024  DEPOSITO DEZEMBRO/2023                       1.083,90                                                                  
+ 10/01/2024  CREDITO DE JAM 0,003157                         60,82                                                                  
+ 07/02/2024  DEPOSITO JANEIRO/2024                          714,00                                                                  
+ 10/02/2024  CREDITO DE JAM 0,003343                         68,23                                                                  
+ 10/03/2024  CREDITO DE JAM 0,002545                         53,94                                                                  
+ 07/03/2024  DEPOSITO FEVEREIRO/2024                        714,00                                                                  
+                                                                                                                                    
+                                                                                                                                    
+ SALDO            DEPOSITO                JAM              TOTAL                                                                    
+                 21.343,70*            618,89*         21.962,59*                                                                   
+ * VALOR EXPRESSO EM REAIS                                                                                                          
+ DATA/HORA DE GERACAO: 14/03/2024 00:44:13                         018073                                                           
+                                                    #EXTERNO.CONFIDENCIAL                                                           
+                                                                                                                                    
+ -------------------------------------------------------------------------                                                          
+                                                                                                                                    
+ C A I X A   E C O N O M I C A   F E D E R A L                                                                                      
+                                                                                                                                    
+ FGTS - EXTRATO DE CONTA VINCULADA PARA FINS RESCISORIOS                                                                            
+                                                                                                                                    
+                                    SOLICITADO EM: 13/03/2024 AS 10:30:52                                                           
+                                                                                                                                    
+ NOME DO TRABALHADOR                        NUM.CONTA CAT      TX    PAG                                                            
+ FERNANDA LIRA FERREIRA                     101353066 01        3   1/  1                                                           
+                                                                                                                                    
+  PIS/PASEP    CART.TRAB.    UNID.TRABALHO        DTA.ADM.   SITUACAO CTA                                                           
+ 20115349817  0003751-00388                      13/08/2018   OPTANTE                                                               
+                                                                                                                                    
+ DATA DE OPCAO       OPCAO RETROAT.     DATA DE AFAST.          MATRICULA                                                           
+  13/08/2018           00/00/0000       00/00/0000 -          38582149816                                                           
+                                                                                                                                    
+ NOME DO EMPREGADOR                                  INSCRICAO EMPREGADOR                                                           
+ ATENTO BRASIL SA                                       02879250004670                                                              
+                                                                                                                                    
+ MAIOR COMPET.     DATA RECOLH MAIOR COMPET.   VALOR RECOLH MAIOR COMPET.                                                           
+    02/2024               07/03/2024                              748,02*                                                           
+                                                                                                                                    
+ COD. EMPREGADOR      BASE DA CONTA      VALOR BASE PARA FINS RESCISORIOS                                                           
+ 09970504539121            SP                                  38.046,73*                                                           
+ * OBS.: CONTA COM BLOQUEIO E/OU EMPRESA BLOQUEADA.                                                                                 
+                                                                                                                                    
+ COMPETENCIAS NAO LOCALIZADAS NESTA CONTA VINCULADA, NO PERIODO:                                                                    
+                                                                                                                                    
+ SEM OCORRENCIAS                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+ MOVIMENTACAO DA CONTA NO PERIODO                          VALOR                                                                    
+ DATA        SALDO ANTERIOR                              25.383,50                                                                  
+ 10/09/2023  CREDITO DE JAM 0,004631                        117,55                                                                  
+ 06/09/2023  DEPOSITO AGOSTO/2023                           737,41                                                                  
+ 06/10/2023  DEPOSITO SETEMBRO/2023                         730,21                                                                  
+ 10/10/2023  CREDITO DE JAM 0,003599                         94,43                                                                  
+ 07/11/2023  DEPOSITO OUTUBRO/2023                          748,02                                                                  
+ 10/11/2023  CREDITO DE JAM 0,003524                         95,37                                                                  
+ 10/12/2023  CREDITO DE JAM 0,003243                         90,50                                                                  
+ 07/12/2023  DEPOSITO NOVEMBRO/2023                       1.122,03                                                                  
+ 05/01/2024  DEPOSITO DEZEMBRO/2023                       1.126,43                                                                  
+ 10/01/2024  CREDITO DE JAM 0,003157                         91,92                                                                  
+ 07/02/2024  DEPOSITO JANEIRO/2024                          748,02                                                                  
+ 10/02/2024  CREDITO DE JAM 0,003343                        101,41                                                                  
+ 10/03/2024  CREDITO DE JAM 0,002545                         79,37                                                                  
+ 07/03/2024  DEPOSITO FEVEREIRO/2024                        748,02                                                                  
+                                                                                                                                    
+                                                                                                                                    
+ SALDO            DEPOSITO                JAM              TOTAL                                                                    
+                 30.972,72*          1.041,47*         32.014,19*                                                                   
+ * VALOR EXPRESSO EM REAIS                                                                                                          
+ DATA/HORA DE GERACAO: 14/03/2024 00:44:13                         017215                                                           
+                                                    #EXTERNO.CONFIDENCIAL                                                           
+                                                                                                                                    
+ -------------------------------------------------------------------------                                                          
+                                                                                                                                    
+ C A I X A   E C O N O M I C A   F E D E R A L                                                                                      
+                                                                                                                                    
+ FGTS - EXTRATO DE CONTA VINCULADA PARA FINS RESCISORIOS                                                                            
+                                                                                                                                    
+                                    SOLICITADO EM: 13/03/2024 AS 10:30:52                                                           
+                                                                                                                                    
+ NOME DO TRABALHADOR                        NUM.CONTA CAT      TX    PAG                                                            
+ CARLA RANGEL FERREIRA                       38325570 01        3   1/  1                                                           
+                                                                                                                                    
+  PIS/PASEP    CART.TRAB.    UNID.TRABALHO        DTA.ADM.   SITUACAO CTA                                                           
+ 20312438987  0013568-00198                      01/10/2009   OPTANTE                                                               
+                                                                                                                                    
+ DATA DE OPCAO       OPCAO RETROAT.     DATA DE AFAST.          MATRICULA                                                           
+  01/10/2009           00/00/0000       08/02/2018 - J        28422361817                                                           
+                                                                                                                                    
+ NOME DO EMPREGADOR                                  INSCRICAO EMPREGADOR                                                           
+ ATENTO BRASIL SA                                       02879250004590                                                              
+                                                                                                                                    
+ MAIOR COMPET.     DATA RECOLH MAIOR COMPET.   VALOR RECOLH MAIOR COMPET.                                                           
+    03/2018               06/04/2018                                0,14*                                                           
+                                                                                                                                    
+ COD. EMPREGADOR      BASE DA CONTA      VALOR BASE PARA FINS RESCISORIOS                                                           
+ 09970504539121            SP                                  19.592,73*                                                           
+                                                                                                                                    
+                                                                                                                                    
+ COMPETENCIAS NAO LOCALIZADAS NESTA CONTA VINCULADA, NO PERIODO:                                                                    
+                                                                                                                                    
+ SEM OCORRENCIAS                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+ MOVIMENTACAO DA CONTA NO PERIODO                          VALOR                                                                    
+ DATA        SALDO ANTERIOR                              22.217,14                                                                  
+ 10/09/2023  CREDITO DE JAM 0,004631                        102,88                                                                  
+ 10/10/2023  CREDITO DE JAM 0,003599                         80,32                                                                  
+ 10/11/2023  CREDITO DE JAM 0,003524                         78,93                                                                  
+ 10/12/2023  CREDITO DE JAM 0,003243                         72,90                                                                  
+ 10/01/2024  CREDITO DE JAM 0,003157                         71,19                                                                  
+ 10/02/2024  CREDITO DE JAM 0,003343                         75,62                                                                  
+ 10/03/2024  CREDITO DE JAM 0,002545                         57,76                                                                  
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+ SALDO            DEPOSITO                JAM              TOTAL                                                                    
+                 17.746,01*          5.010,73*         22.756,74*                                                                   
+ * VALOR EXPRESSO EM REAIS                                                                                                          
+ DATA/HORA DE GERACAO: 14/03/2024 00:44:13                         018118                                                           
+                                                    #EXTERNO.CONFIDENCIAL                                                           
+                                                                                                                                    
+ -------------------------------------------------------------------------                                                          
+                                                                                                                                    
+ C A I X A   E C O N O M I C A   F E D E R A L                                                                                      
+                                                                                                                                    
+ FGTS - EXTRATO DE CONTA VINCULADA PARA FINS RESCISORIOS                                                                            
+                                                                                                                                    
+                                    SOLICITADO EM: 13/03/2024 AS 10:30:52                                                           
+                                                                                                                                    
+ NOME DO TRABALHADOR                        NUM.CONTA CAT      TX    PAG                                                            
+ CARLA RANGEL FERREIRA                      101638060 01        3   1/  1                                                           
+                                                                                                                                    
+  PIS/PASEP    CART.TRAB.    UNID.TRABALHO        DTA.ADM.   SITUACAO CTA                                                           
+ 20312438987  0013568-00198                      03/09/2018   OPTANTE                                                               
+                                                                                                                                    
+ DATA DE OPCAO       OPCAO RETROAT.     DATA DE AFAST.          MATRICULA                                                           
+  03/09/2018           00/00/0000       00/00/0000 -          28422361817                                                           
+                                                                                                                                    
+ NOME DO EMPREGADOR                                  INSCRICAO EMPREGADOR                                                           
+ ATENTO BRASIL SA                                       02879250004670                                                              
+                                                                                                                                    
+ MAIOR COMPET.     DATA RECOLH MAIOR COMPET.   VALOR RECOLH MAIOR COMPET.                                                           
+    02/2024               07/03/2024                              895,84*                                                           
+                                                                                                                                    
+ COD. EMPREGADOR      BASE DA CONTA      VALOR BASE PARA FINS RESCISORIOS                                                           
+ 09970504539121            SP                                  43.163,62*                                                           
+                                                                                                                                    
+                                                                                                                                    
+ COMPETENCIAS NAO LOCALIZADAS NESTA CONTA VINCULADA, NO PERIODO:                                                                    
+                                                                                                                                    
+ SEM OCORRENCIAS                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+ MOVIMENTACAO DA CONTA NO PERIODO                          VALOR                                                                    
+ DATA        SALDO ANTERIOR                              36.846,71                                                                  
+ 10/09/2023  CREDITO DE JAM 0,004631                        170,63                                                                  
+ 06/09/2023  DEPOSITO AGOSTO/2023                           752,99                                                                  
+ 06/10/2023  DEPOSITO SETEMBRO/2023                         745,79                                                                  
+ 10/10/2023  CREDITO DE JAM 0,003599                        135,93                                                                  
+ 07/11/2023  DEPOSITO OUTUBRO/2023                          895,84                                                                  
+ 10/11/2023  CREDITO DE JAM 0,003524                        136,20                                                                  
+ 10/12/2023  CREDITO DE JAM 0,003243                        128,69                                                                  
+ 07/12/2023  DEPOSITO NOVEMBRO/2023                       1.145,97                                                                  
+ 05/01/2024  DEPOSITO DEZEMBRO/2023                       1.150,77                                                                  
+ 10/01/2024  CREDITO DE JAM 0,003157                        129,30                                                                  
+ 07/02/2024  DEPOSITO JANEIRO/2024                          763,98                                                                  
+ 10/02/2024  CREDITO DE JAM 0,003343                        141,20                                                                  
+ 10/03/2024  CREDITO DE JAM 0,002545                        109,80                                                                  
+ 07/03/2024  DEPOSITO FEVEREIRO/2024                        895,84                                                                  
+                                                                                                                                    
+                                                                                                                                    
+ SALDO            DEPOSITO                JAM              TOTAL                                                                    
+                 40.500,78*          3.648,86*         44.149,64*                                                                   
+ * VALOR EXPRESSO EM REAIS                                                                                                          
+ DATA/HORA DE GERACAO: 14/03/2024 00:44:13                         017689                                                           
+                                                    #EXTERNO.CONFIDENCIAL                                                           
+                                                                                                                                    
+ -------------------------------------------------------------------------                                                          
+                                                                                                                                    
+ C A I X A   E C O N O M I C A   F E D E R A L                                                                                      
+                                                                                                                                    
+ FGTS - EXTRATO DE CONTA VINCULADA PARA FINS RESCISORIOS                                                                            
+                                                                                                                                    
+                                    SOLICITADO EM: 13/03/2024 AS 10:30:52                                                           
+                                                                                                                                    
+ NOME DO TRABALHADOR                        NUM.CONTA CAT      TX    PAG                                                            
+ ALONSO BARBOSA SILVA                       113514529 01        3   1/  1                                                           
+                                                                                                                                    
+  PIS/PASEP    CART.TRAB.    UNID.TRABALHO        DTA.ADM.   SITUACAO CTA                                                           
+ 20382052646  0029688-00305                      03/05/2021   OPTANTE                                                               
+                                                                                                                                    
+ DATA DE OPCAO       OPCAO RETROAT.     DATA DE AFAST.          MATRICULA                                                           
+  03/05/2021           00/00/0000       00/00/0000 -          34605131876                                                           
+                                                                                                                                    
+ NOME DO EMPREGADOR                                  INSCRICAO EMPREGADOR                                                           
+ ATENTO BRASIL SA                                       02879250004670                                                              
+                                                                                                                                    
+ MAIOR COMPET.     DATA RECOLH MAIOR COMPET.   VALOR RECOLH MAIOR COMPET.                                                           
+    02/2024               07/03/2024                              763,98*                                                           
+                                                                                                                                    
+ COD. EMPREGADOR      BASE DA CONTA      VALOR BASE PARA FINS RESCISORIOS                                                           
+ 09970504539121            SP                                  28.631,84*                                                           
+                                                                                                                                    
+                                                                                                                                    
+ COMPETENCIAS NAO LOCALIZADAS NESTA CONTA VINCULADA, NO PERIODO:                                                                    
+                                                                                                                                    
+ SEM OCORRENCIAS                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+ MOVIMENTACAO DA CONTA NO PERIODO                          VALOR                                                                    
+ DATA        SALDO ANTERIOR                               4.878,91                                                                  
+ 10/09/2023  CREDITO DE JAM 0,004631                         22,59                                                                  
+ 06/09/2023  DEPOSITO AGOSTO/2023                           752,99                                                                  
+ 06/10/2023  DEPOSITO SETEMBRO/2023                         745,79                                                                  
+ 10/10/2023  CREDITO DE JAM 0,003599                         20,35                                                                  
+ 07/11/2023  DEPOSITO OUTUBRO/2023                          763,98                                                                  
+ 10/11/2023  CREDITO DE JAM 0,003524                         22,62                                                                  
+ 10/12/2023  CREDITO DE JAM 0,003243                         23,37                                                                  
+ 07/12/2023  DEPOSITO NOVEMBRO/2023                       1.348,57                                                                  
+ 05/01/2024  DEPOSITO DEZEMBRO/2023                       1.212,43                                                                  
+ 10/01/2024  CREDITO DE JAM 0,003157                         27,08                                                                  
+ 07/02/2024  DEPOSITO JANEIRO/2024                          763,98                                                                  
+ 10/02/2024  CREDITO DE JAM 0,003343                         32,82                                                                  
+ 10/03/2024  CREDITO DE JAM 0,002545                         27,01                                                                  
+ 07/03/2024  DEPOSITO FEVEREIRO/2024                        763,98                                                                  
+                                                                                                                                    
+                                                                                                                                    
+ SALDO            DEPOSITO                JAM              TOTAL                                                                    
+                 11.182,67*            223,80*         11.406,47*                                                                   
+ * VALOR EXPRESSO EM REAIS                                                                                                          
+ DATA/HORA DE GERACAO: 14/03/2024 00:44:13                         016743                                                           
+                                                    #EXTERNO.CONFIDENCIAL                                                           
+                                                                                                                                    
+ -------------------------------------------------------------------------                                                          
+                                                                                                                                    
+ C A I X A   E C O N O M I C A   F E D E R A L                                                                                      
+                                                                                                                                    
+ FGTS - EXTRATO DE CONTA VINCULADA PARA FINS RESCISORIOS                                                                            
+                                                                                                                                    
+                                    SOLICITADO EM: 13/03/2024 AS 10:30:52                                                           
+                                                                                                                                    
+ NOME DO TRABALHADOR                        NUM.CONTA CAT      TX    PAG                                                            
+ SAMARA SALES SANTOS                         52181122 01        3   1/  1                                                           
+                                                                                                                                    
+  PIS/PASEP    CART.TRAB.    UNID.TRABALHO        DTA.ADM.   SITUACAO CTA                                                           
+ 21069387853  0076453-00364                      22/07/2011   OPTANTE                                                               
+                                                                                                                                    
+ DATA DE OPCAO       OPCAO RETROAT.     DATA DE AFAST.          MATRICULA                                                           
+  22/07/2011           00/00/0000       00/00/0000 -          39303075889                                                           
+                                                                                                                                    
+ NOME DO EMPREGADOR                                  INSCRICAO EMPREGADOR                                                           
+ ATENTO BRASIL SA                                       02879250004670                                                              
+                                                                                                                                    
+ MAIOR COMPET.     DATA RECOLH MAIOR COMPET.   VALOR RECOLH MAIOR COMPET.                                                           
+    02/2024               07/03/2024                              763,98*                                                           
+                                                                                                                                    
+ COD. EMPREGADOR      BASE DA CONTA      VALOR BASE PARA FINS RESCISORIOS                                                           
+ 09970504539121            SP                                  64.260,69*                                                           
+                                                                                                                                    
+                                                                                                                                    
+ COMPETENCIAS NAO LOCALIZADAS NESTA CONTA VINCULADA, NO PERIODO:                                                                    
+                                                                                                                                    
+ SEM OCORRENCIAS                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+ MOVIMENTACAO DA CONTA NO PERIODO                          VALOR                                                                    
+ DATA        SALDO ANTERIOR                              26.446,34                                                                  
+ 10/09/2023  CREDITO DE JAM 0,004631                        122,47                                                                  
+ 06/09/2023  DEPOSITO AGOSTO/2023                           752,99                                                                  
+ 06/10/2023  DEPOSITO SETEMBRO/2023                         745,79                                                                  
+ 10/10/2023  CREDITO DE JAM 0,003599                         98,33                                                                  
+ 07/11/2023  DEPOSITO OUTUBRO/2023                          763,98                                                                  
+ 10/11/2023  CREDITO DE JAM 0,003524                         99,25                                                                  
+ 10/12/2023  CREDITO DE JAM 0,003243                         94,14                                                                  
+ 07/12/2023  DEPOSITO NOVEMBRO/2023                       1.145,97                                                                  
+ 05/01/2024  DEPOSITO DEZEMBRO/2023                       1.150,37                                                                  
+ 10/01/2024  CREDITO DE JAM 0,003157                         95,56                                                                  
+ 07/02/2024  DEPOSITO JANEIRO/2024                          763,98                                                                  
+ 10/02/2024  CREDITO DE JAM 0,003343                        105,35                                                                  
+ 10/03/2024  CREDITO DE JAM 0,002545                         82,41                                                                  
+ 07/03/2024  DEPOSITO FEVEREIRO/2024                        763,98                                                                  
+                                                                                                                                    
+                                                                                                                                    
+ SALDO            DEPOSITO                JAM              TOTAL                                                                    
+                 31.401,76*          1.829,15*         33.230,91*                                                                   
+ * VALOR EXPRESSO EM REAIS                                                                                                          
+ DATA/HORA DE GERACAO: 14/03/2024 00:44:13                         015752                                                           
+                                                    #EXTERNO.CONFIDENCIAL                                                           
+                                                                                                                                    
+ -------------------------------------------------------------------------                                                          
+                                                                                                                                    
+ C A I X A   E C O N O M I C A   F E D E R A L                                                                                      
+                                                                                                                                    
+ FGTS - EXTRATO DE CONTA VINCULADA PARA FINS RESCISORIOS                                                                            
+                                                                                                                                    
+                                    SOLICITADO EM: 13/03/2024 AS 10:30:52                                                           
+                                                                                                                                    
+ NOME DO TRABALHADOR                        NUM.CONTA CAT      TX    PAG                                                            
+ TIAGO BARROS MENDES                         92820799 01        3   1/  1                                                           
+                                                                                                                                    
+  PIS/PASEP    CART.TRAB.    UNID.TRABALHO        DTA.ADM.   SITUACAO CTA                                                           
+ 21071916108  0073374-00323                      21/11/2016   OPTANTE                                                               
+                                                                                                                                    
+ DATA DE OPCAO       OPCAO RETROAT.     DATA DE AFAST.          MATRICULA                                                           
+  21/11/2016           00/00/0000       00/00/0000 -          36791492805                                                           
+                                                                                                                                    
+ NOME DO EMPREGADOR                                  INSCRICAO EMPREGADOR                                                           
+ ATENTO BRASIL SA                                       02879250004670                                                              
+                                                                                                                                    
+ MAIOR COMPET.     DATA RECOLH MAIOR COMPET.   VALOR RECOLH MAIOR COMPET.                                                           
+    02/2024               07/03/2024                              714,00*                                                           
+                                                                                                                                    
+ COD. EMPREGADOR      BASE DA CONTA      VALOR BASE PARA FINS RESCISORIOS                                                           
+ 09970504539121            SP                                  42.319,11*                                                           
+                                                                                                                                    
+                                                                                                                                    
+ COMPETENCIAS NAO LOCALIZADAS NESTA CONTA VINCULADA, NO PERIODO:                                                                    
+                                                                                                                                    
+ SEM OCORRENCIAS                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+ MOVIMENTACAO DA CONTA NO PERIODO                          VALOR                                                                    
+ DATA        SALDO ANTERIOR                               2.822,78                                                                  
+ 10/09/2023  CREDITO DE JAM 0,004631                         13,07                                                                  
+ 06/09/2023  DEPOSITO AGOSTO/2023                           704,20                                                                  
+ 06/10/2023  DEPOSITO SETEMBRO/2023                         697,00                                                                  
+ 10/10/2023  CREDITO DE JAM 0,003599                         12,74                                                                  
+ 07/11/2023  DEPOSITO OUTUBRO/2023                          879,36                                                                  
+ 10/11/2023  CREDITO DE JAM 0,003524                         14,97                                                                  
+ 10/12/2023  CREDITO DE JAM 0,003243                         16,68                                                                  
+ 07/12/2023  DEPOSITO NOVEMBRO/2023                       1.071,00                                                                  
+ 05/01/2024  DEPOSITO DEZEMBRO/2023                       1.075,80                                                                  
+ 10/01/2024  CREDITO DE JAM 0,003157                         19,67                                                                  
+ 07/02/2024  DEPOSITO JANEIRO/2024                          714,00                                                                  
+ 10/02/2024  CREDITO DE JAM 0,003343                         24,49                                                                  
+ 10/03/2024  CREDITO DE JAM 0,002545                         20,52                                                                  
+ 07/03/2024  DEPOSITO FEVEREIRO/2024                        714,00                                                                  
+                                                                                                                                    
+                                                                                                                                    
+ SALDO            DEPOSITO                JAM              TOTAL                                                                    
+                  8.666,60*            133,68*          8.800,28*                                                                   
+ * VALOR EXPRESSO EM REAIS                                                                                                          
+ DATA/HORA DE GERACAO: 14/03/2024 00:44:13                         017601                                                           
+                                                    #EXTERNO.CONFIDENCIAL                                                           
+ 10287925000017910287925000017900000018                                                                                             
