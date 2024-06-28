@@ -1,0 +1,6 @@
+pandas
+pytz
+IPython
+jproperties
+fpdf
+PyPDF2
