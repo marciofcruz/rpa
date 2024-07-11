@@ -51,6 +51,33 @@ def get_campos_super_digital(numero_pagina, texto):
     
   return eh_inicio_comprovante, data_pagamento, valor, banco, nome, documento
 
+def get_campos_santander(numero_pagina, texto):
+  eh_inicio_comprovante = texto.find('COMPROVANTE DE PAGAMENTO')>=0
+  documento = ''
+  data_pagamento = ''
+  valor = ''
+  banco = ''
+  nome = ''
+
+  posicao_apos_autenticacao_legis = get_posicao_corte_inicial(texto, 'Autentic. Legis', True)
+    
+  if posicao_apos_autenticacao_legis>0:
+    linhas = texto[posicao_apos_autenticacao_legis:].split('\n')
+      
+    # cont = 0
+    # for linha in linhas:
+    #   print(cont, ':', linha)
+    #   cont+=1
+    
+    documento = linhas[6]
+    banco = linhas[1]
+    nome = linhas[5]
+    data_pagamento = str(linhas[14] ).replace('/','-')
+    valor= linhas[16]
+    
+  return eh_inicio_comprovante, data_pagamento, valor, banco, nome, documento
+
+
 def get_campos_itau(numero_pagina, texto):
   eh_inicio_comprovante = texto.find('Transferência efetuada em')>=0
   
@@ -87,11 +114,6 @@ def get_campos_bradesco(numero_pagina, texto):
   if eh_inicio_comprovante:
     linhas = texto.split('\n')
 
-    # cont = 0
-    # for linha in linhas:
-    #   print(cont, ':', linha)
-    #   cont+=1
-    
     valor = linhas[17]
     banco = 'BRADESCO'
     nome = linhas[14]
@@ -116,7 +138,7 @@ def get_campos_comprovante(numero_pagina, texto):
   if texto.upper().find('997 - SUPER DIGITAL')>0:
     eh_inicio_comprovante, data_pagamento, valor, banco, nome, documento = get_campos_super_digital(numero_pagina, texto)
   elif texto.upper().find('033 - SANTANDER')>0:
-    eh_inicio_comprovante, data_pagamento, valor, banco, nome, documento = get_campos_super_digital(numero_pagina, texto)
+    eh_inicio_comprovante, data_pagamento, valor, banco, nome, documento = get_campos_santander(numero_pagina, texto)
   elif texto.upper().find('BRADESCO')>0:
     eh_inicio_comprovante, data_pagamento, valor, banco, nome, documento = get_campos_bradesco(numero_pagina, texto)
   else:
