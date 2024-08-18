@@ -41,13 +41,23 @@ def get_campos_arquivo(texto):
   cnpj = ''
   competencia = ''
   data_emissao = ''
-  hora_emissao = ''
   
   posicao_atento = get_posicao_corte_inicial(texto, 'ATENTO BRASIL SA', True)
+  
   if posicao_atento>0:
-    cnpj = texto[posicao_atento:posicao_atento+52]
-    cnpj = cnpj.strip()
-    cnpj = cnpj.replace('.','').replace('/','').replace('-','')
+    auxiliar = texto[posicao_atento:posicao_atento+57].strip()
+    auxiliar = auxiliar[0:18]
+    cnpj = auxiliar.strip()
+    cnpj = cnpj.replace('.','').replace('/','').replace('-','').replace('\n','')
+  else:
+    posicao_atento = get_posicao_corte_inicial(texto, 'ATENTO DO BRASIL SA', True)
+    
+    if posicao_atento>0:
+      auxiliar = texto[posicao_atento:posicao_atento+57].strip()
+      auxiliar = auxiliar[0:18]
+      cnpj = auxiliar.strip()
+      cnpj = cnpj.replace('.','').replace('/','').replace('-','').replace('\n','')
+       
 
   posicao_competencia = get_posicao_corte_inicial(texto, 'COMP:', True)
   if posicao_competencia>0:
@@ -61,12 +71,7 @@ def get_campos_arquivo(texto):
     data_emissao = data_emissao.strip()
     data_emissao = data_emissao.replace('/','-')
     
-    posicao_hora = posicao_pagina+11
-    
-    hora_emissao = texto[posicao_hora:posicao_hora+9]
-    hora_emissao = hora_emissao.strip()
-    
-  return cnpj, competencia, data_emissao, hora_emissao
+  return cnpj, competencia, data_emissao
 
 def gravar_cartao(ultimo_nome_cartao, reader, pagina_inicio_documento, cont_pagina):
   writer = PdfWriter()
@@ -78,7 +83,6 @@ def gravar_cartao(ultimo_nome_cartao, reader, pagina_inicio_documento, cont_pagi
       cont += 1 
       
     writer.write(ultimo_nome_cartao)
-    print('aqui3')
   finally:
     writer = None
     
@@ -104,7 +108,7 @@ def main():
       try:
         pagina = reader.pages[0]
         
-        cnpj, competencia, data_emissao, hora_emissao = get_campos_arquivo(pagina.extract_text())
+        cnpj, competencia, data_emissao = get_campos_arquivo(pagina.extract_text())
         
         nome_arquivo = f'/RE_{cnpj} - {competencia} - {data_emissao}'# - {hora_emissao}'
         ultimo_nome_cartao = diretorio_destino+'/'+str(nome_arquivo)+'.pdf'  
