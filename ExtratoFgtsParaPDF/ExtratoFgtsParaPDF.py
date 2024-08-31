@@ -40,7 +40,7 @@ def lista_arquivos_txt():
   desktop = pathlib.Path(diretorio_temp)
   return list(desktop.rglob("*.txt"))
 
-def create_pdf(conteudo, output_file):
+def create_pdf(conteudo, output_file, size, salto):
   # Create a new FPDF object
   pdf = FPDF()
 
@@ -48,10 +48,10 @@ def create_pdf(conteudo, output_file):
   pdf.add_page()
 
   # Set the font and font size
-  pdf.set_font('Courier', size=9)
+  pdf.set_font('Courier', size=size)
 
   # Write the text to the PDF
-  pdf.write(2, conteudo)
+  pdf.write(salto, conteudo)
 
   # Save the PDF
   pdf.output(output_file)
@@ -74,8 +74,6 @@ def main():
     
     diretorio_zip = os.path.join(diretorio_temp, nome_arquivo)
     
-    print(diretorio_zip)
-
     with ZipFile(caminho_arquivo, 'r') as zip_file:
       zip_file.extractall(diretorio_zip)
       
@@ -89,18 +87,38 @@ def main():
       extratos = conteudo.split(separador)
       
       for extrato in extratos:
-        if extrato.find('FGTS')>0:
+        if (extrato.find('FGTS')>0) and (extrato.find('ANALITICO')>0):
+          # print(extrato[1342:1342+4].strip())
+          
+          # print(extrato[827:827+12].strip())
+          
+          # input()
+          
+          cnpj = extrato[1342:1342+4].strip()
+          nome = extrato[602:602+40].strip()
+          pis = extrato[827:827+12].strip()
+          maior_competencia = ''
+          
+          nome_arquivo = cnpj+' - '+nome + ' - '+pis
+          caminho_pdf = diretorio_destino+'/'+str(nome_arquivo)+'.pdf'  
+
+          print(caminho_pdf)
+          
+          create_pdf(extrato, caminho_pdf, 9, 3)
+          
+        else:
           cnpj = extrato[2386:2390].strip()
           nome = extrato[1124:1167].strip()
           pis = extrato[1523:1536].strip()
           maior_competencia = extrato[2723:2745].strip().replace('/','')
 
-          nome_arquivo = cnpj+' - '+nome + ' - '+pis + ' - '+maior_competencia
-          caminho_pdf = diretorio_destino+'/'+str(nome_arquivo)+'.pdf'  
-          
-          print(caminho_pdf)
-          
-          create_pdf(extrato, caminho_pdf)
+          if nome != '':
+            nome_arquivo = cnpj+' - '+nome + ' - '+pis + ' - '+maior_competencia
+            caminho_pdf = diretorio_destino+'/'+str(nome_arquivo)+'.pdf'  
+            
+            print(caminho_pdf)
+            
+            create_pdf(extrato, caminho_pdf, 9, 2)
       
 
 if __name__ == "__main__":
