@@ -4,6 +4,7 @@
 # Carregamento de Bibliotecas
 from jproperties import Properties
 import os
+import os.path
 import pathlib
 from PyPDF2 import PdfReader
 from PyPDF2 import PdfWriter
@@ -31,7 +32,8 @@ def get_posicao_corte_inicial(textooriginal, token, usa_sufixo):
   return corte_inicial
 
 def get_campos_super_digital(numero_pagina, texto):
-  eh_inicio_comprovante = texto.find('COMPROVANTE DE PAGAMENTO')>=0
+  eh_inicio_comprovante = texto.find('COMPROVANTE DE PAGAMENTO')>=0 or texto.find('COMPROVANTE DE TRANSFERENCIA')>=0 
+
   documento = ''
   data_pagamento = ''
   valor = ''
@@ -42,7 +44,12 @@ def get_campos_super_digital(numero_pagina, texto):
     
   if posicao_apos_autenticacao_legis>0:
     linhas = texto[posicao_apos_autenticacao_legis:].split('\n')
-      
+    
+    # cont = 0
+    # for linha in linhas:
+    #   print(cont,'-', linha)
+    #   cont+=1
+    
     documento = linhas[6]
     banco = linhas[1]
     nome = linhas[5]
@@ -51,30 +58,42 @@ def get_campos_super_digital(numero_pagina, texto):
     
   return eh_inicio_comprovante, data_pagamento, valor, banco, nome, documento
 
-def get_campos_santander(numero_pagina, texto):
-  eh_inicio_comprovante = texto.find('COMPROVANTE DE PAGAMENTO')>=0
+def get_campos_super(numero_pagina, texto):
+  eh_inicio_comprovante = texto.find('CNPJ')>=0 
+
   documento = ''
   data_pagamento = ''
   valor = ''
   banco = ''
   nome = ''
 
-  posicao_apos_autenticacao_legis = get_posicao_corte_inicial(texto, 'Autentic. Legis', True)
-    
-  if posicao_apos_autenticacao_legis>0:
-    linhas = texto[posicao_apos_autenticacao_legis:].split('\n')
+  linhas = texto[:].split('\n')
+  
+  linha_cpf = 0
+  linha_valor = 0
+
+  count = 0
+  for linha in linhas:
+    if linha.find('CPF')>=0:
+      linha_cpf = count
+    elif linha.find('R$')>=0:
+      linha_valor = count
       
-    # cont = 0
-    # for linha in linhas:
-    #   print(cont, ':', linha)
-    #   cont+=1
-    
-    documento = linhas[6]
-    banco = linhas[1]
-    nome = linhas[5]
-    data_pagamento = str(linhas[14] ).replace('/','-')
-    valor= linhas[16]
-    
+    print(count, linha)
+
+    count+=1
+
+  if eh_inicio_comprovante:
+    linhas = texto[:].split('\n')
+      
+    documento = linhas[linha_cpf]
+    documento = documento[-15:]
+    banco = 'CONTASUPER'
+    nome = linhas[linha_cpf]
+    nome = nome[0:nome.find('-')] 
+    data_pagamento = str(linhas[linha_valor+1][0:10] ).replace('/','-')
+    valor= linhas[linha_valor][0:15]
+
   return eh_inicio_comprovante, data_pagamento, valor, banco, nome, documento
 
 
@@ -89,16 +108,28 @@ def get_campos_itau(numero_pagina, texto):
   
   if eh_inicio_comprovante:
     linhas = texto.split('\n')
-
-    valor = linhas[1]
+    
+    cont = 0
+    for linha in linhas:
+      if linha.find('R$')>=0:
+        valor = linha
+        
+      if linha.upper().find('SISPAG')>=0:
+        posicao_apos_ponto = get_posicao_corte_inicial(linha, '.', True)
+        posicao_antes_sispag = get_posicao_corte_inicial(linha, 'SISPAG', False)
+        nome = linha[posicao_apos_ponto:posicao_antes_sispag]
+        data_pagamento = linha[38:48].replace('/','-')
+      
+      print(cont, linha)
+      cont+=1
 
     banco = 'Itau'
-    documento = linhas[0].replace('  ','').replace(' - ','-')
-    data_pagamento = linhas[12][38:48].replace('/','-')
+    documento = linhas[1].replace('  ','').replace(' - ','-')
+
+    print(eh_inicio_comprovante, data_pagamento, valor, banco, nome, documento)
     
-    posicao_apos_ponto = get_posicao_corte_inicial(linhas[12], '.', True)
-    posicao_antes_sispag = get_posicao_corte_inicial(linhas[12], 'SISPAG', False)
-    nome = linhas[12][posicao_apos_ponto:posicao_antes_sispag]
+    #input()
+    
   
   return eh_inicio_comprovante, data_pagamento, valor, banco, nome, documento
 
@@ -113,7 +144,12 @@ def get_campos_bradesco(numero_pagina, texto):
   
   if eh_inicio_comprovante:
     linhas = texto.split('\n')
-
+    
+    # cont = 0
+    # for linha in linhas:
+    #   print(cont, ':', linha)
+    #   cont+=1
+    
     valor = linhas[17]
     banco = 'BRADESCO'
     nome = linhas[14]
@@ -122,9 +158,8 @@ def get_campos_bradesco(numero_pagina, texto):
     if posicao_apos_espaco>=0:
       documento = linhas[15][0:posicao_apos_espaco].strip()
       data_pagamento = linhas[15][posicao_apos_espaco:].strip().replace('/', '-')
-
+      
   return eh_inicio_comprovante, data_pagamento, valor, banco, nome, documento
-
   
 
 def get_campos_comprovante(numero_pagina, texto):
@@ -135,26 +170,29 @@ def get_campos_comprovante(numero_pagina, texto):
   banco = '.'
   nome = '.'
     
-  if texto.upper().find('997 - SUPER DIGITAL')>0:
-    eh_inicio_comprovante, data_pagamento, valor, banco, nome, documento = get_campos_super_digital(numero_pagina, texto)
-  elif texto.upper().find('033 - SANTANDER')>0:
-    eh_inicio_comprovante, data_pagamento, valor, banco, nome, documento = get_campos_santander(numero_pagina, texto)
-  elif texto.upper().find('BRADESCO')>0:
-    eh_inicio_comprovante, data_pagamento, valor, banco, nome, documento = get_campos_bradesco(numero_pagina, texto)
-  else:
-    eh_inicio_comprovante, data_pagamento, valor, banco, nome, documento = get_campos_itau(numero_pagina, texto)
-    
+  
+  try:
+    if (texto.upper().find('SUPER DIGITAL')>0):
+      eh_inicio_comprovante, data_pagamento, valor, banco, nome, documento = get_campos_super_digital(numero_pagina, texto)
+    elif  (texto.upper().find('CONTASUPER')>0):
+      eh_inicio_comprovante, data_pagamento, valor, banco, nome, documento = get_campos_super(numero_pagina, texto)
+
+    elif texto.upper().find('033 - SANTANDER')>0:
+      eh_inicio_comprovante, data_pagamento, valor, banco, nome, documento = get_campos_super_digital(numero_pagina, texto)
+    elif texto.upper().find('BRADESCO')>0:
+      eh_inicio_comprovante, data_pagamento, valor, banco, nome, documento = get_campos_bradesco(numero_pagina, texto)
+    else:
+      eh_inicio_comprovante, data_pagamento, valor, banco, nome, documento = get_campos_itau(numero_pagina, texto)
+  except Exception as e:
+    print(texto.upper())
+      
   return eh_inicio_comprovante, data_pagamento, valor, banco, nome, documento
 
-def gravar_comprovante(ultimo_nome_cartao, reader, pagina_inicio_documento, cont_pagina):
+def gravar_comprovante(ultimo_nome_cartao, reader, pagina_inicio_documento):
   writer = PdfWriter()
 
-  cont = pagina_inicio_documento
   try:
-    while cont<(cont_pagina):
-      writer.add_page(reader.pages[cont])
-      cont += 1 
-      
+    writer.add_page(reader.pages[pagina_inicio_documento])
     writer.write(ultimo_nome_cartao)
   finally:
     writer = None
@@ -168,10 +206,6 @@ def main():
   for item in lista:
     reader = PdfReader(item)
     
-    pagina_inicio_documento = 0
-    
-    ultimo_nome_comprovante = ''
-    
     cont_pagina = 0 
     while cont_pagina<=(len(reader.pages)-1):
       pagina = reader.pages[cont_pagina]
@@ -182,21 +216,28 @@ def main():
         
         print(f'{item} - Página {cont_pagina+1}/{len(reader.pages)} documento {documento} - {nome}')
         
-        if ultimo_nome_comprovante!='':
-          gravar_comprovante(ultimo_nome_comprovante, reader, pagina_inicio_documento, cont_pagina)
-
         nome_arquivo = documento+' - '+nome+' - '+valor+' - '+data_pagamento+' - '+banco
+        nome_arquivo = nome_arquivo.replace('/','').replace('\t','').strip()
         
-        ultimo_nome_comprovante = diretorio_destino+'/'+str(nome_arquivo)+'.pdf'  
+        arquivo_salvar = diretorio_destino+'/'+str(nome_arquivo)+'.pdf'  
+
+        cont_versao = 0        
+        while os.path.isfile(arquivo_salvar) :
+          cont_versao += 1
+          
+          arquivo_salvar = diretorio_destino+'/'+str(nome_arquivo)+' (Cópia '+str(cont_versao)+')'+'.pdf'  
         
-        pagina_inicio_documento = cont_pagina
+        gravar_comprovante(arquivo_salvar, reader, cont_pagina)
+        
+        # print(arquivo_salvar)
+        # print(pagina.extract_text())
       else:
         print(f'{item} - Página {cont_pagina+1}/{len(reader.pages)}')
         
+        arquivo_salvar =  diretorio_destino+'/'+"{:05d}".format(cont_pagina+1)+' nao_gerou.pdf'
+        gravar_comprovante(arquivo_salvar, reader, cont_pagina)
+        
       cont_pagina += 1
-      
-    if ultimo_nome_comprovante!='':
-      gravar_comprovante(ultimo_nome_comprovante, reader, pagina_inicio_documento, cont_pagina)
       
     reader = None
     
