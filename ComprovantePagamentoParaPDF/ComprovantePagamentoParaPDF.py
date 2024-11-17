@@ -58,6 +58,34 @@ def get_campos_super_digital(numero_pagina, texto):
     
   return eh_inicio_comprovante, data_pagamento, valor, banco, nome, documento
 
+def get_campos_mentore(numero_pagina, texto):
+  eh_inicio_comprovante = texto.find('COMPROVANTE DE PAGAMENTO')>=0 or texto.find('COMPROVANTE DE TRANSFERENCIA')>=0 
+
+  documento = ''
+  data_pagamento = ''
+  valor = ''
+  banco = ''
+  nome = ''
+
+  posicao_apos_autenticacao_legis = get_posicao_corte_inicial(texto, 'Autentic. Legis', True)
+    
+  if posicao_apos_autenticacao_legis>0:
+    linhas = texto[posicao_apos_autenticacao_legis:].split('\n')
+    
+    # cont = 0
+    # for linha in linhas:
+    #   print(cont,'-', linha)
+    #   cont+=1
+    
+    documento = linhas[6]
+    banco = linhas[1]
+    nome = linhas[5]
+    data_pagamento = str(linhas[12] ).replace('/','-')
+    valor= linhas[15]
+    
+  return eh_inicio_comprovante, data_pagamento, valor, banco, nome, documento
+
+
 def get_campos_super(numero_pagina, texto):
   eh_inicio_comprovante = texto.find('CNPJ')>=0 
 
@@ -145,19 +173,31 @@ def get_campos_bradesco(numero_pagina, texto):
   if eh_inicio_comprovante:
     linhas = texto.split('\n')
     
-    # cont = 0
-    # for linha in linhas:
-    #   print(cont, ':', linha)
-    #   cont+=1
-    
-    valor = linhas[17]
+    linha_atento = 0
+    cont = 0
+    for linha in linhas:
+      if linha.find('ATENTO')>=0 and linha.find('BRASIL')>=0:
+        linha_atento = cont
+      #print(cont, ':', linha)
+      cont+=1
+      
+    valor = linhas[linha_atento+5]
     banco = 'BRADESCO'
-    nome = linhas[14]
-
-    posicao_apos_espaco = get_posicao_corte_inicial(linhas[15], ' ', True)
+    nome = linhas[linha_atento+2]
+    
+    posicao_apos_espaco = get_posicao_corte_inicial(linhas[linha_atento+3], ' ', True)
     if posicao_apos_espaco>=0:
-      documento = linhas[15][0:posicao_apos_espaco].strip()
-      data_pagamento = linhas[15][posicao_apos_espaco:].strip().replace('/', '-')
+      documento = linhas[linha_atento+3][0:posicao_apos_espaco].strip()
+      data_pagamento = linhas[linha_atento+3][posicao_apos_espaco:].strip().replace('/', '-')
+
+
+  # print('-'*10)
+  # print('linha da atento', linha_atento)
+  # print('data_pagamento', data_pagamento)
+  # print('valor', valor)
+  # print('nome', nome)
+  # print('documento', documento)
+  # input()
       
   return eh_inicio_comprovante, data_pagamento, valor, banco, nome, documento
   
@@ -181,6 +221,8 @@ def get_campos_comprovante(numero_pagina, texto):
       eh_inicio_comprovante, data_pagamento, valor, banco, nome, documento = get_campos_super_digital(numero_pagina, texto)
     elif texto.upper().find('BRADESCO')>0:
       eh_inicio_comprovante, data_pagamento, valor, banco, nome, documento = get_campos_bradesco(numero_pagina, texto)
+    elif texto.upper().find('MÊNTORE')>0:
+      eh_inicio_comprovante, data_pagamento, valor, banco, nome, documento = get_campos_mentore(numero_pagina, texto)
     else:
       eh_inicio_comprovante, data_pagamento, valor, banco, nome, documento = get_campos_itau(numero_pagina, texto)
   except Exception as e:
@@ -232,10 +274,11 @@ def main():
         # print(arquivo_salvar)
         # print(pagina.extract_text())
       else:
-        print(f'{item} - Página {cont_pagina+1}/{len(reader.pages)}')
-        
-        arquivo_salvar =  diretorio_destino+'/'+"{:05d}".format(cont_pagina+1)+' nao_gerou.pdf'
-        gravar_comprovante(arquivo_salvar, reader, cont_pagina)
+        if len(pagina.extract_text().strip())>3:
+          print(f'{item} - Página {cont_pagina+1}/{len(reader.pages)}')
+          
+          arquivo_salvar =  diretorio_destino+'/'+"{:05d}".format(cont_pagina+1)+' nao_gerou.pdf'
+          gravar_comprovante(arquivo_salvar, reader, cont_pagina)
         
       cont_pagina += 1
       
