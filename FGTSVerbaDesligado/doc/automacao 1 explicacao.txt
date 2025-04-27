@@ -1,0 +1,3 @@
+Planilhar no excel os campos informados na planilha. Os campos são padrão em todas as folhas d documento.
+
+O objetivo é aplicar filtros por CNPJ, Tomador, valores, datas e tipo de guias, para identificar valores.
